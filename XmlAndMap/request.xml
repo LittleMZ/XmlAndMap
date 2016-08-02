@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Cartoon>
+	<Message>
+		<CPReq>
+			<version>1.0.1</version>
+			<instId>100000000049</instId>
+			<certId>0001</certId>
+			<serialNo>20160623160712030909</serialNo>
+			<date>20160623 16:07:12</date>
+			<signNo>6225591440318487</signNo>
+			<charge>0</charge>
+			<amount>1000</amount>
+			<currency>156</currency>
+			<mccCode>4458</mccCode>
+			<productType>L</productType>
+			<sendWay>0</sendWay>
+			<productName>快捷充值</productName>
+			<secondMerName>大信通</secondMerName>
+			<websiteName>大信通支付</websiteName>
+			<netAddress>www.obanks.com</netAddress>
+			<comment>测试数据</comment>
+			<channel>MP</channel>
+		</CPReq>
+	</Message>
+</Cartoon>
